@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="250" viewBox="0 0 680 250">
+<style>
+text { font-family: sans-serif; font-weight: 500; }
+.w1 { fill: rgb(0, 117, 202); }
+.w2 { fill: rgb(0, 117, 202, 0.75); }
+.w3 { fill: rgb(0, 117, 202, 0.5); }
+.w4 { fill: rgb(0, 117, 202, 0.3); }
+</style>
+<text class="w4" x="340" y="125" font-size="20" text-anchor="middle">chrome-extension</text>
+<text class="w4" x="349.178225716613" y="147.17261892474036" font-size="20" text-anchor="middle">text-replacer</text>
+<text class="w4" x="331.2694843169005" y="102.7960131836772" font-size="20" text-anchor="middle">website-editor</text>
+<text class="w4" x="358.35645143322597" y="169.34523784948072" font-size="20" text-anchor="middle">browser-extension</text>
+<text class="w4" x="322.538968633801" y="80.5920263673544" font-size="20" text-anchor="middle">discord</text>
+<text class="w4" x="431.39577413573807" y="78.63413074664032" font-size="20" text-anchor="middle">vencord-theme</text>
+<text class="w4" x="443.60578348213363" y="102.3506437535788" font-size="20" text-anchor="middle">python3</text>
+<text class="w4" x="475" y="125" font-size="20" text-anchor="middle">url-opener</text>
+<text class="w4" x="367.53467714983896" y="191.51785677422106" font-size="20" text-anchor="middle">combinations-generator</text>
+<text class="w4" x="295.64456602297264" y="56.188669430779626" font-size="20" text-anchor="middle">combinations-without-repetition</text>
+<text class="w4" x="187.35998081167747" y="147.6117001355237" font-size="20" text-anchor="middle">bad-words-censor</text>
+<text class="w4" x="160.00636147515843" y="124.36945644746409" font-size="20" text-anchor="middle">bad-words-detection</text>
+<text class="w4" x="511.96056804260905" y="147.16401549960045" font-size="20" text-anchor="middle">bad-words-filter</text>
+<text class="w4" x="207.84335114085602" y="101.17110996284266" font-size="20" text-anchor="middle">blacklist</text>
+<text class="w4" x="234.33038222624168" y="78.89675708948512" font-size="20" text-anchor="middle">filter</text>
+<text class="w4" x="232.4848992536463" y="170.35642624041634" font-size="20" text-anchor="middle">list</text>
+<text class="w4" x="495.98843121792925" y="169.46559477985903" font-size="20" text-anchor="middle">algorithm</text>
+<text class="w4" x="521.4721841769185" y="102.99602951683357" font-size="20" text-anchor="middle">csharp</text>
+<text class="w4" x="181.37356412170723" y="174.37395188857647" font-size="20" text-anchor="middle">local</text>
+<text class="w4" x="376.71290286645194" y="213.69047569896142" font-size="20" text-anchor="middle">prototype</text>
+<text class="w4" x="267.2598474557115" y="213.71563322069505" font-size="20" text-anchor="middle">social-media</text>
+<text class="w4" x="292.5709451280728" y="33.35655146889732" font-size="20" text-anchor="middle">echo-chamber</text>
+<text class="w4" x="431.848591479252" y="31.261263414316716" font-size="20" text-anchor="middle">filter-bubble</text>
+<text class="w4" x="385.89112858306487" y="235.86309462370178" font-size="20" text-anchor="middle">high-school-project</text>
+<text class="w4" x="114.01687908379444" y="78.53535345404096" font-size="20" text-anchor="middle">basketball-game</text>
+<text class="w4" x="505.82872718415297" y="56.209818256885995" font-size="20" text-anchor="middle">csharp-app</text>
+<text class="w4" x="565" y="125" font-size="20" text-anchor="middle">dotnet</text>
+<text class="w4" x="131.17159040283622" y="102.00130081758553" font-size="20" text-anchor="middle">forms</text>
+<text class="w4" x="526.0175621068871" y="79.2548830250658" font-size="20" text-anchor="middle">game</text>
+<text class="w4" x="532.7402311956911" y="192.64285715995757" font-size="20" text-anchor="middle">physics-2d</text>
+</svg>
