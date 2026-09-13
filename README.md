@@ -9,6 +9,18 @@ Hit me up or conect with me here⬇️
 [![Facebook](https://custom-icon-badges.demolab.com/badge/-Facebook-blue?logo=facebook&logoSource=feather)]([https://noahgajnielsen.dk](https://www.facebook.com/nonie0802))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noah@noahgajnielsen.dk)
 
+# A bit about me🚀
+🇩🇰 A certified idiot based in Denmark\
+📖 By day: grinding through [HTX (Kommunikation & IT + Programmering)](https://www.hansenberg.dk/htx/kommunikation-og-it-a-og-programmering-b/)\
+🍔 By night: keeping the fries crispy and the crew in line as Shift Leader at Carl's Jr.\
+💻 Somewhere in between: teaching myself to actually make computers do what I want\
+🎯 Currently on a mission to turn "words on a page" into "a page with words about me"
 
-# Stuff i've worked on😅
+### Fun facts🍟
+- 🕐 I've perfected the art of coding between shifts
+- 🤔 I'm probably A/B testing a headline in my head right now
+- 📈 I'm also looking at new stocks to add to my portfolio while writing
+- 🙃 Even though it may not be so obvious here, I really like emojis and believe every message should have one :)
+
+# Topics about stuff i've worked on😅
 ![Topics](topics.svg)
