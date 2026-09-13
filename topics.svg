@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="750" height="350" viewBox="0 0 750 350">
 <style>
 text { font-family: sans-serif; font-weight: 500; }
-.w1 { fill: rgb(24, 170, 222); }
-.w2 { fill: rgb(24, 170, 222, 0.75); }
-.w3 { fill: rgb(24, 170, 222, 0.5); }
-.w4 { fill: rgb(24, 170, 222, 0.3); }
+.w1 { fill: rgb(35, 247, 255); }
+.w2 { fill: rgb(35, 247, 255, 0.75); }
+.w3 { fill: rgb(35, 247, 255, 0.5); }
+.w4 { fill: rgb(35, 247, 255, 0.3); }
 </style>
 <text class="w4" x="375" y="175" font-size="28" text-anchor="middle">chrome-extension</text>
 <text class="w4" x="411.74128583547173" y="205.07824840207346" font-size="28" text-anchor="middle">text-replacer</text>
