@@ -2,7 +2,7 @@
 ![Profile Views](https://assets.noahgajnielsen.dk/GitHubProfileViews)
 
 # Hello World👋
-Im Noah🙌\
+I'm Noah🙌\
 Hit me up or connect with me here⬇️
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/noah-g-nielsen)
@@ -20,3 +20,6 @@ Hit me up or connect with me here⬇️
 
 # Topics about stuff i've worked on😅
 ![Topics](topics.svg)
+
+# LOOK! A TREEEE!🌲
+<img src="https://raw.githubusercontent.com/NoahGNielsen/NoahGNielsen/refs/heads/main/output/bonsai.svg" width="400" alt="my git-bonsai" />
