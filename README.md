@@ -1,4 +1,5 @@
 ![Main Pciture](https://raw.githubusercontent.com/NoahGNielsen/NoahGNielsen/refs/heads/main/GitHub%20Readme%20pic.png)
+![Profile Views](https://badges.pufler.dev/visits/NoahGNielsen/NoahGNielsen)
 
 # Hello World👋
 Im Noah🙌\
